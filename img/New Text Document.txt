@@ -1,0 +1,74 @@
+Növ
+Peşəkar at biçmə maşını
+
+Qidalanma
+Batareya/Şəbəkə
+
+Kəsmə hündürlüyü
+0,7 - 3 mm
+
+Uzunluğu kəsin
+0,7-3 mm
+
+Kəsmə eni
+46 mm
+
+Bıçağın eni
+46 mm
+
+Tez dəyişdirilən bıçaq bloku
+Bəli
+
+Çəki
+280 q
+
+İşin müddəti
+80 dəq
+
+İş saatları
+80 dəq
+
+Doldurma vaxtı
+90 dəq
+
+Motor
+Dönər motor
+
+Motor sürəti
+5000 rpm
+
+Bıçaq bloku
+Bəli
+
+Ölçü
+170 x 50 x 50 mm
+
+Gərginlik
+220-240 V / 50-60 Hz
+
+Rəng
+Qara
+
+Brend
+Vəhl
+
+Doldurma göstəricisi
+var
+
+Material
+Paslanmaz polad
+
+Bıçaq materialı
+Paslanmaz polad
+
+İş gərginliyi
+220-240 V, 50-60 Hz
+
+İstehsalçı ölkə
+Almaniya
+
+Ölçülər
+170 x 50 x 50 mm
+
+Məlumat Sistemi
+Led göstərici
